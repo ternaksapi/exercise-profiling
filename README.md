@@ -2,7 +2,7 @@ Muhammad Yusuf Haikal </br>
 NPM 2206081490 </br>
 https://eshop-ternaksapi.koyeb.app/<br>
 
-# Refleksi Tutorial 6
+# Refleksi Tutorial 5
 
 ## Reflection 1
 
@@ -56,4 +56,4 @@ Since optimization is mostly about how to reduce the program complexity, I try t
 
 ### `/all-student-name` endpoint Performance Test, from GUI after refactorization.
 ![2e0cca8c-6da3-49ce-bcad-eb11833dd435](https://github.com/ternaksapi/exercise-profiling/assets/116947973/6493a04b-fb5f-496f-bd03-9e64418afc0b)
-This results show a huge gap in Sample Time compared to the previous one, more then tenth of the sample time before refactorization is done.
+This results show a huge gap in Sample Time compared to the previous one, more then tenth of the sample time before refactorization is done. Concluding that the refactorization has successfully reduced the resource used to run the application.
